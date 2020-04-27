@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7333b94a1b2ddc429790d32e96b78ed, type: 3}
+  m_Name: Cube
+  m_EditorClassIdentifier: 
+  objectName: SimpleCube
+  mesh: {fileID: 5421502140958638984, guid: 608bb2b1a3de5dd4c9072d079f8982b2, type: 3}
+  ColorSettings:
+  - colors: {r: 1, g: 0, b: 0, a: 0}
+    clicksForColor: 0
+  - colors: {r: 0.38894618, g: 1, b: 0, a: 0}
+    clicksForColor: 6
+  - colors: {r: 0, g: 1, b: 0.9228463, a: 0}
+    clicksForColor: 12
